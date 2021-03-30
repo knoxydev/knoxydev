@@ -8,6 +8,6 @@ Skills: HTML / CSS / SCSS / JavaScript / Python / Flutter
 - Instagram: @nkr.projects
 - 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkr413)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkr413&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
