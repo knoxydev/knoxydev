@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kamronbek
+### Hi there 👋
 I'm 17 years old. I am from Uzbekistan. I have been studying programming for a long time. I know HTML / CSS / JavaScript / Python well.
 
 #### Skills: 
