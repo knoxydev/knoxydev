@@ -5,9 +5,9 @@ Passionate about programming, I hope to work on interactive applications and the
 ### Skills:
 
 HTML
--- CSS
+- - CSS
 - SCSS
--- JavaScript
+- - JavaScript
 - Vue.js
 - Solid.js
 - Node.js
