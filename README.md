@@ -19,7 +19,7 @@ Passionate about programming, I hope to work on interactive applications and the
 - GIT
 - Figma
 
-Language skills:
+### Language skills:
 Confident Russian and Uzbek. Average knowledge of English
 
 ### Contacts:
