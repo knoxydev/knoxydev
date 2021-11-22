@@ -23,8 +23,8 @@ Passionate about programming, I hope to work on interactive applications and the
 Confident Russian and Uzbek. Average knowledge of English
 
 ### Contacts:
-Telegram [@nkr_dev](https://t.me/nkr_dev)
-GitHub @nkr413
+- Telegram [@nkr_dev](https://t.me/nkr_dev)
+- GitHub [@nkr413](https://github.com/nkr413)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkr413&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
