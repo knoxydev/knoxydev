@@ -4,20 +4,20 @@ Passionate about programming, I hope to work on interactive applications and the
 
 ### Skills:
 
-HTML
-- - CSS
-- SCSS
-- - JavaScript
-- Vue.js
-- Solid.js
-- Node.js
-- Electron.js
-SPA/PWA
-Python
-Rust
-Sqlite3
-GIT
-Figma
+- HTML
+- CSS
+- - SCSS
+- JavaScript
+- - Vue.js
+- - Solid.js
+- - Node.js
+- - Electron.js
+- SPA/PWA
+- Python
+- Rust
+- Sqlite3
+- GIT
+- Figma
 
 Language skills:
 Confident Russian and Uzbek. Average knowledge of English
