@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Passionate about programming, I hope to work on interactive applications and the implementation of web programs. I'm learning fast. I am currently working on my technical skills and looking for a good team to grow!
+#### Passionate about programming, I hope to work on interactive applications and the implementation of web programs. I'm learning fast. I am currently working on my technical skills and looking for a good team to grow!
 
 ### Skills:
 
