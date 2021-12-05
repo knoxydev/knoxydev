@@ -12,10 +12,10 @@
 - - Solid.js
 - - Node.js
 - - Electron.js
-- SPA/PWA
 - Python
 - - Flask
 - Rust
+- SPA/PWA
 - Sqlite3
 - GIT
 - Figma
