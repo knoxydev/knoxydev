@@ -17,7 +17,7 @@
 - Rust
 - SPA/PWA
 - Sqlite3
-- GIT
+- Git
 - Figma
 
 ### Language skills:
