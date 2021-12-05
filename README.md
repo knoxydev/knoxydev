@@ -14,6 +14,7 @@
 - - Electron.js
 - SPA/PWA
 - Python
+- - Flask
 - Rust
 - Sqlite3
 - GIT
