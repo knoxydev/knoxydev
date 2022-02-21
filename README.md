@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ![](https://komarev.com/ghpvc/?username=nkr413)
 
