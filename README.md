@@ -11,7 +11,12 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### Technologies
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+![Electron.js](https://img.shields.io/badge/-Electron.js-000?&logo=electron.js)
+![SQLite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
+
 
 ![](https://komarev.com/ghpvc/?username=nkr413)
 
