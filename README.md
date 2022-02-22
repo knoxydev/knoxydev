@@ -11,7 +11,6 @@
 
 ### Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![Solid.js](https://img.shields.io/badge/-Solid.js-000?&logo=solid.js)
