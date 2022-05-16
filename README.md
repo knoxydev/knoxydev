@@ -2,7 +2,6 @@
 
 ### Contacts:
 - Telegram [@nkr_dev](https://t.me/nkr_dev)
-- GitHub [@nkr413](https://github.com/nkr413)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
