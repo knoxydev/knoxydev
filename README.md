@@ -20,4 +20,4 @@
 
 ![](https://komarev.com/ghpvc/?username=nkr413) [![GitHub stars](https://img.shields.io/github/stars/nkr413.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkr413&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkr413&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
