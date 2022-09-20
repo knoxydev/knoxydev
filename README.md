@@ -16,7 +16,7 @@
 ![Electron.js](https://img.shields.io/badge/-Electron.js-000?&logo=electron.js)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-![React Native](https://img.shields.io/badge/-reactnative-000?&logo=reactnative)
+![Go](https://img.shields.io/badge/-go-000?&logo=go)
 
 
 ![](https://komarev.com/ghpvc/?username=nkr413) [![GitHub stars](https://img.shields.io/github/stars/nkr413.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
