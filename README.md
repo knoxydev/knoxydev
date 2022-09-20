@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Golang](https://img.shields.io/badge/-golang-000?&logo=go)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=go)
 
 ### Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
