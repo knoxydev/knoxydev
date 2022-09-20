@@ -14,7 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![Solid.js](https://img.shields.io/badge/-Solid.js-000?&logo=solid)
-![Electron.js](https://img.shields.io/badge/-Electron.js-000?&logo=electron.js)
+![Electron.js](https://img.shields.io/badge/-Electron.js-000?&logo=electron)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 
