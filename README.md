@@ -1,7 +1,7 @@
 ## Welcome to my GitHub!
 
 ### Contacts:
-- Telegram [@nkr_dev](https://t.me/nkr_dev)
+- Telegram [@nkrmain](https://t.me/nkrmain)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
