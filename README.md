@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### Contacts:
-- Telegram [@nkrdev](https://t.me/nkrdev)
+- Telegram [@knoxydev](https://t.me/knoxydev)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -18,6 +18,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-![](https://komarev.com/ghpvc/?username=nkr413) [![GitHub stars](https://img.shields.io/github/stars/nkr413.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+![](https://komarev.com/ghpvc/?username=knoxydev) [![GitHub stars](https://img.shields.io/github/stars/knoxydev.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkr413&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
