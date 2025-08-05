@@ -1,4 +1,4 @@
-## Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a **Middle Backend Engineer** focused on building high-performance systems in **Rust** and **Golang**. I love solving infrastructure problems, optimizing data pipelines, and learning how decentralized technologies work under the hood.
 
@@ -10,12 +10,13 @@ I'm a **Middle Backend Engineer** focused on building high-performance systems i
 ### Languages
 🦀 Rust • 🐹 Golang • ⚡ Zig • 🐍 Python • ☕ JavaScript • 🧊 Lua • 🌐 HTML/CSS
 
-**Core Tools & Technologies**  
+### Core Tools & Technologies  
 - 📦 Docker, gRPC, Git
 - 🛢️ PostgreSQL / SQLite, Redis, Kafka
 - 📈 Grafana, Prometheus
 - 🌱 Actix, Fiber, Hyper, Django, Node.js/Solid.js
 - 📡 Event-driven and microservice systems
+
 
 ![](https://komarev.com/ghpvc/?username=knoxydev) [![GitHub stars](https://img.shields.io/github/stars/knoxydev.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
