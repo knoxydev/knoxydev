@@ -4,7 +4,7 @@ I'm a **Middle Backend Engineer** focused on building high-performance systems i
 
 ### Contacts:
 - Telegram: [@knoxydev](https://t.me/knoxydev)
-- LinkedIn: [@nkrdev](https://www.linkedin.com/in/nkrdev/)
+- LinkedIn: [in/nkrdev](https://www.linkedin.com/in/nkrdev/)
 - Mail: [knoxyengineer@gmail.com](mailto:knoxyengineer@gmail.com)
 
 ### Languages
