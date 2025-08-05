@@ -12,7 +12,6 @@
 ### Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![Solid.js](https://img.shields.io/badge/-Solid.js-000?&logo=solid)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
