@@ -8,7 +8,7 @@ I'm a **Middle Backend Engineer** focused on building high-performance systems i
 - Mail: [knoxyengineer@gmail.com](mailto:knoxyengineer@gmail.com)
 
 ### Languages
-🦀 Rust • 🐹 Golang • ⚡ Zig • 🐍 Python • ☕ JavaScript • 🧊 Lua • 🌐 HTML/CSS
+🦀 Rust • 🐹 Golang • 🐍 Python • 🧊 Lua • 🌐 HTML/CSS/JavaScript
 
 ### Core Tools & Technologies  
 - 📦 Docker, gRPC, Git
